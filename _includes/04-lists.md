@@ -11,3 +11,10 @@ Another list
 3. Item 3
    i. Item 3a
    ii. Item 3b
+
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+_You **can** combine them_
